@@ -1,1 +1,1 @@
-ق# smart-side-hustle-tools
+# smart-side-hustle-tools
